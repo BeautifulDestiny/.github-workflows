@@ -40,14 +40,14 @@ p {
 
 /* The div container constrains the content width within the main container to 600px */
 div {
-  margin: auto;
+  margin: 0 auto;
   width: 600px;
 }
 
 img {
   width: 100%;
   max-width: 200px;
-  height: auto;
+  height: 0 auto;
 }
 
 hr {
