@@ -51,7 +51,8 @@ img {
 }
 
 hr {
-  width: 200px; solid black;
+  width: 100px
+  border: 1px; solid black;
 }
 
 /* Add your solution below */
