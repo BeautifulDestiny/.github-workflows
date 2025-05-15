@@ -6,7 +6,8 @@ body {
 
 body {
   background-color: #eae2b7;
-  margin: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
@@ -14,7 +15,7 @@ h2,
 h3
 {font-family: "Playfair Display", Times, serif;
 font-size: 24px;
-color: #black;
+color: black;
     text-align:center;
 }
 
@@ -51,7 +52,7 @@ img {
 }
 
 hr {
-  border: 1px; solid black;
+  border: 1px solid black;
 }
 
 /* Add your solution below */
@@ -82,3 +83,4 @@ ol{
 footer{
   text-align:center;
 }
+ 
